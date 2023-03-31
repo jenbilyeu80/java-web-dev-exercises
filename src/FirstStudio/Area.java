@@ -6,6 +6,7 @@ public class Area {
         Area area = new Area();
         area.calculateArea();
 
+
     }
 
     public Area() {

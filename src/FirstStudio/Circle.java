@@ -4,6 +4,7 @@ public class Circle {
 //    Scanner input = new Scanner(System.in);
     public Circle(){
 
+
     }
 
     public static Double getArea(Double radius) {
